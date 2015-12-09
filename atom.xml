@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Man Can Fly]]></title>
+  <link href="http://xugongming38.github.io/atom.xml" rel="self"/>
+  <link href="http://xugongming38.github.io/"/>
+  <updated>2015-12-09T12:23:28+08:00</updated>
+  <id>http://xugongming38.github.io/</id>
+  <author>
+    <name><![CDATA[genius]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://xugongming38.github.io/blog/2015/12/08/protected/"/>
+    <updated>2015-12-08T13:24:24+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2015/12/08/protected</id>
+    <content type="html"><![CDATA[<p><strong>usage about protected</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://xugongming38.github.io/blog/2015/12/08/first/"/>
+    <updated>2015-12-08T13:24:24+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2015/12/08/first</id>
+    <content type="html"><![CDATA[<p><strong>about this blog</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[123]]></title>
+    <link href="http://xugongming38.github.io/blog/2015/12/08/123/"/>
+    <updated>2015-12-08T13:24:24+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2015/12/08/123</id>
+    <content type="html"><![CDATA[<p>i am genius!</p>
+]]></content>
+  </entry>
+  
+</feed>
