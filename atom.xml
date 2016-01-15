@@ -4,7 +4,7 @@
   <title><![CDATA[The Man Can Fly]]></title>
   <link href="http://xugongming38.github.io/atom.xml" rel="self"/>
   <link href="http://xugongming38.github.io/"/>
-  <updated>2015-12-09T12:23:28+08:00</updated>
+  <updated>2016-01-15T11:39:32+08:00</updated>
   <id>http://xugongming38.github.io/</id>
   <author>
     <name><![CDATA[genius]]></name>
@@ -14,29 +14,78 @@
 
   
   <entry>
-    <title type="html"><![CDATA[123]]></title>
-    <link href="http://xugongming38.github.io/blog/2015/12/08/protected/"/>
-    <updated>2015-12-08T13:24:24+08:00</updated>
-    <id>http://xugongming38.github.io/blog/2015/12/08/protected</id>
-    <content type="html"><![CDATA[<p><strong>usage about protected</strong></p>
+    <title type="html"><![CDATA[1 15]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/15/1-15/"/>
+    <updated>2016-01-15T00:00:00+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/15/1-15</id>
+    <content type="html"><![CDATA[<h1>About C language</h1>
+
+<figure class='code'><figcaption><span>c code</span><a href='http://xugongming38.github.io'>link</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='c'><span class='line'><span class="cp">#include&lt;stdio.h&gt;</span>
+</span><span class='line'><span class="kt">int</span> <span class="nf">mian</span><span class="p">()</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="n">printf</span><span class="p">(</span><span class="s">&quot;Hello Genius!!!&quot;</span><span class="p">);</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[123]]></title>
-    <link href="http://xugongming38.github.io/blog/2015/12/08/first/"/>
-    <updated>2015-12-08T13:24:24+08:00</updated>
-    <id>http://xugongming38.github.io/blog/2015/12/08/first</id>
-    <content type="html"><![CDATA[<p><strong>about this blog</strong></p>
+    <title type="html"><![CDATA[1 14 2]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/14/1-14-2/"/>
+    <updated>2016-01-14T00:00:00+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/14/1-14-2</id>
+    <content type="html"><![CDATA[<h1>C++</h1>
+
+<h2>just for test</h2>
+
+<figure class='code'><figcaption><span>code block</span><a href='http://xugongming38.github.io'>link</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='c++'><span class='line'><span class="cp">#include&lt;iostream&gt;</span>
+</span><span class='line'><span class="k">using</span> <span class="n">nammespace</span> <span class="n">std</span><span class="p">;</span>
+</span><span class='line'><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="s">&quot;Don&#39;t want to be a dog!!!&quot;</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[123]]></title>
-    <link href="http://xugongming38.github.io/blog/2015/12/08/123/"/>
-    <updated>2015-12-08T13:24:24+08:00</updated>
-    <id>http://xugongming38.github.io/blog/2015/12/08/123</id>
-    <content type="html"><![CDATA[<p>i am genius!</p>
+    <title type="html"><![CDATA[1 14]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/14/1-14/"/>
+    <updated>2016-01-14T00:00:00+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/14/1-14</id>
+    <content type="html"><![CDATA[<h1>The first day</h1>
+
+<h2>just for test</h2>
+
+<p><strong>蓝桥杯</strong></p>
+
+<p><code>important</code></p>
+
+<figure class='code'><figcaption><span>java code</span><a href='http://xugongming38.github.io'>link</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">class</span> <span class="nc">Test</span><span class="o">{</span>
+</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="o">[]</span><span class="n">args</span><span class="o">){</span>
+</span><span class='line'>      <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">print</span><span class="o">(</span><span class="s">&quot;Hello bridge!!!&quot;</span><span class="o">);</span>
+</span><span class='line'>  <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
