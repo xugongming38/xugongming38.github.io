@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Acm | The Man Can Fly]]></title>
+  <link href="http://xugongming38.github.io/blog/categories/acm/atom.xml" rel="self"/>
+  <link href="http://xugongming38.github.io/"/>
+  <updated>2016-01-17T14:35:22+08:00</updated>
+  <id>http://xugongming38.github.io/</id>
+  <author>
+    <name><![CDATA[genius]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[C Language测试]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/15/1-15/"/>
+    <updated>2016-01-15T11:35:19+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/15/1-15</id>
+    <content type="html"><![CDATA[<h1>About C language</h1>
+
+<pre><code class="c c code http://xugongming38.github.io link">#include&lt;stdio.h&gt;
+int mian()
+{
+    printf("Hello Genius!!!");
+}
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Java 测试]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/14/1-14/"/>
+    <updated>2016-01-14T11:44:18+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/14/1-14</id>
+    <content type="html"><![CDATA[<h1>The first day</h1>
+
+<h2>just for test</h2>
+
+<p><strong>蓝桥杯</strong></p>
+
+<p><code>important</code></p>
+
+<pre><code class="java java code http://xugongming38.github.io link">class Test{
+    public static void main(String []args){
+        System.out.print("Hello bridge!!!");
+    }
+}
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>

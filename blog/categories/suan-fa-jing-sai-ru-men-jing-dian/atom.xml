@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 算法竞赛入门经典 | The Man Can Fly]]></title>
+  <link href="http://xugongming38.github.io/blog/categories/suan-fa-jing-sai-ru-men-jing-dian/atom.xml" rel="self"/>
+  <link href="http://xugongming38.github.io/"/>
+  <updated>2016-01-17T12:05:55+08:00</updated>
+  <id>http://xugongming38.github.io/</id>
+  <author>
+    <name><![CDATA[genius]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Java 测试]]></title>
+    <link href="http://xugongming38.github.io/blog/2016/01/14/1-14/"/>
+    <updated>2016-01-14T11:44:18+08:00</updated>
+    <id>http://xugongming38.github.io/blog/2016/01/14/1-14</id>
+    <content type="html"><![CDATA[<h1>The first day</h1>
+
+<h2>just for test</h2>
+
+<p><strong>蓝桥杯</strong></p>
+
+<p><code>important</code></p>
+
+<pre><code class="java java code http://xugongming38.github.io link">class Test{
+    public static void main(String []args){
+        System.out.print("Hello bridge!!!");
+    }
+}
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
