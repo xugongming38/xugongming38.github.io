@@ -1,0 +1,18 @@
+footer.main {color:#D0D0D0; background-color:#36404B; }
+footer.main section.widgets {padding:50px 0; font-size:85%; }
+footer.main h4 {font-size:16px; margin-bottom:35px; color:#F4F4F4; text-transform:uppercase; }
+footer.main a {color:inherit; }
+footer.main a:hover {color:#F8F8F8; text-decoration:none; }
+/* Footer: Quick links */
+footer.main .footer-qlink ul {margin:0; padding:0; list-style:none; }
+footer.main .footer-qlink ul li {border-top:1px solid #616B75; padding:5px 0; }
+footer.main .footer-qlink ul li:first-child {border-top:0; padding-top:0; }
+/* Footer: Blog */
+footer.main .footer-blog > ul > li {margin-top:25px; }
+footer.main .footer-blog img {width:64px; height:64px; }
+footer.main .footer-blog h5 {font-size:inherit; font-weight:bold; }
+footer.main .footer-blog p {margin:0; }
+footer.main .footer-blog .footer {font-style:italic; font-size:12px; opacity:0.6; }
+/* Footer: Social */
+footer.main .footer-social a.btn-social {float:left; margin:0 12px 12px 0; color:#F8F8F8; }
+footer.main section.copyright {padding:20px 0; font-size:75%; background-color:rgba(138,165,193, 0.25); }

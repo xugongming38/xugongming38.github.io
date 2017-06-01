@@ -1,0 +1,13 @@
+* { padding:0; margin:0;}       /*设置所有对像的内边距为0*/
+body { text-align:center;}      /*设置页面居中对齐*/
+#photo-list {
+    /* 1张图片的宽度（包含宽度、padding、border、图片间的留白）计算：1033+2*2+1*2
+    */
+    float:right;
+    width:1039px;
+    /* 图片的宽度（包含高度、padding、border）   计算：580+2*2+1*2
+   */
+    height:586px;
+    margin:50px auto;    border:1px  #ccc;  }
+#photo-list ul { list-style:none;}
+#photo-list img { border:1px solid #ddd; background:#fff; padding:2px;}
