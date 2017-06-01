@@ -23,10 +23,14 @@ var clickPosition = [imageWidth * 0.5, imageHeight * 0.5];
 window.onload = function() {
     TweenMax.set(container, {perspective:500});
     var urls = [
-            'images/index/1.jpg',
-            'images/index/2.jpg',
-            'images/index/3.jpg',
-            'images/index/4.jpg'
+            'images/index/1.png',
+            'images/index/2.png',
+            'images/index/3.png',
+            'images/index/4.png',
+            'images/index/5.png',
+            'images/index/6.png',
+            'images/index/7.png',
+            'images/index/8.png'
         ],
         image,
         loaded = 0;
